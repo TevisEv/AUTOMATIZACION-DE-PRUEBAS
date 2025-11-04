@@ -1,0 +1,745 @@
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.exe
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.deps.json
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.runtimeconfig.json
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.pdb
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\CucumberExpressions.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Gherkin.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.AssemblyReference.cache
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfoInputs.cache
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfo.cs
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\Automati.E0E287BD.Up2Date
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\refint\AutomatizacionPOM.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.pdb
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.genruntimeconfig.cache
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\ref\AutomatizacionPOM.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ExtentReports.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\RazorEngine.NetCore.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Elias\Documents\TallerAutomatización2025\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.Support.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.exe
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.api.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.core.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.deps.json
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.runtimeconfig.json
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.pdb
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\CucumberExpressions.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ExtentReports.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Gherkin.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.framework.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\RazorEngine.NetCore.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.Support.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Reactive.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.AssemblyReference.cache
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfoInputs.cache
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfo.cs
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.CoreCompileInputs.cache
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\Automati.E0E287BD.Up2Date
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\refint\AutomatizacionPOM.dll
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.pdb
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.genruntimeconfig.cache
+D:\AUTOMATIZACION CASOS DE PRUEBA\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\ref\AutomatizacionPOM.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.exe
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testhost.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.api.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.core.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.deps.json
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.runtimeconfig.json
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.pdb
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\CucumberExpressions.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ExtentReports.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Gherkin.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\nunit.framework.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\RazorEngine.NetCore.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.Support.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Reactive.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.AssemblyReference.cache
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfoInputs.cache
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfo.cs
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.CoreCompileInputs.cache
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\Automati.E0E287BD.Up2Date
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\refint\AutomatizacionPOM.dll
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.pdb
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.genruntimeconfig.cache
+D:\CALIDAD\TallerTsol\AutomatizacionPOM\obj\Debug\net8.0\ref\AutomatizacionPOM.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testhost.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testhost.exe
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.api.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.core.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.deps.json
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.runtimeconfig.json
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.pdb
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\CucumberExpressions.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ExtentReports.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Gherkin.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.framework.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\RazorEngine.NetCore.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.Support.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Reactive.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.AssemblyReference.cache
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfoInputs.cache
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfo.cs
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.CoreCompileInputs.cache
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\Automati.E0E287BD.Up2Date
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\refint\AutomatizacionPOM.dll
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.pdb
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.genruntimeconfig.cache
+D:\TRABAJOAUTOMATIZACION\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\ref\AutomatizacionPOM.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testhost.exe
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testhost.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.api.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.engine.core.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.deps.json
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.runtimeconfig.json
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\AutomatizacionPOM.pdb
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\CucumberExpressions.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ExtentReports.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Gherkin.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\nunit.framework.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\RazorEngine.NetCore.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\Reqnroll.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.Support.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\WebDriver.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\SpecFlow.Internal.Json.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Reactive.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.AssemblyReference.cache
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfoInputs.cache
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.AssemblyInfo.cs
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.csproj.CoreCompileInputs.cache
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\Automati.E0E287BD.Up2Date
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\refint\AutomatizacionPOM.dll
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.pdb
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\AutomatizacionPOM.genruntimeconfig.cache
+D:\YO\AUTOMATIZACIONCALIDAD\AutomatizacionPOM\obj\Debug\net8.0\ref\AutomatizacionPOM.dll
